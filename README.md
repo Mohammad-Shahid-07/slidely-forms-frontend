@@ -21,7 +21,7 @@ This project is a Windows Forms application designed to create, view, edit, and 
 1. **Clone the Repository:**
 
    ```bash
-   git clone [https://github.com/Mohammad-Shahid-07/slidely-forms.git](https://github.com/Mohammad-Shahid-07/slidely-forms-frontend)
+   git clone https://github.com/Mohammad-Shahid-07/slidely-forms-frontend
    ```
 
 2. **Open Project in Visual Studio:**
